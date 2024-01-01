@@ -19,8 +19,6 @@ classifiers = [
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Topic :: Home Automation",
-    "Topic :: Home Automation :: Homematic",
-    "Topic :: Home Automation :: Homematic IP",
 ]
 
 [project.optional-dependencies]

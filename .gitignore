@@ -4,3 +4,4 @@ temp
 /venv
 /dist
 *.egg-info
+/src/homematic/__version__.py
